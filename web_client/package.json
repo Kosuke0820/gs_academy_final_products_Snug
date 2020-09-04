@@ -21,7 +21,7 @@
     "firebase": "^4.11.0",
     "import-glob-loader": "^1.1.0",
     "material-ui": "^0.20.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
